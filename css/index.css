@@ -1,3 +1,19 @@
 p{
     color:black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
 }
+
+.right {
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+.footer {
+    padding: 15px;
+    display: inline-block;
+    vertical-align: bottom;
+  }
+
