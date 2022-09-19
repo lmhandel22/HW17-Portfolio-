@@ -4,12 +4,28 @@ p{
     font-size: larger;
 }
 
+.nav {
+    display: flex;
+    background-color: #F9F4E6;
+    padding: 20px;
+  }
+
 .right {
     height: 50px;
     display: flex;
-    justify-content: center;
+    justify-content:end;
     align-items: center;
+
+   
+    color: black;
+    padding: 10px;
+    font-size: 18px;
+    text-decoration: none;
+    font-family:arial;
+
+    
   }
+
 
 .footer {
     padding: 15px;
